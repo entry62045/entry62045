@@ -4,4 +4,5 @@
 
 ## 주요 프로젝트
 
-엔트리 관련 JS: https://github.com/entry62045/entryjs
+엔트리 관련 JS: https://github.com/entry62045/entryjs<br>
+엔트리 매크로: https://github.com/entry62045/entrymacro
