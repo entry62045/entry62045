@@ -4,5 +4,6 @@
 
 ## 주요 프로젝트
 
+특급 블럭: https://github.com/entry62045/expressblock<br>
 엔트리 관련 JS: https://github.com/entry62045/entryjs<br>
 엔트리 매크로: https://github.com/entry62045/entrymacro
