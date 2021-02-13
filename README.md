@@ -15,4 +15,5 @@ JavaScript<br>
 C#
 
 ## 62045의 페이지
-엔트리: https://playentry.org/entry62045
+엔트리: https://playentry.org/entry62045<br>
+GitHub 페이지: https://entry62045.github.io
